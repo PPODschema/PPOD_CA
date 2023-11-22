@@ -10,7 +10,7 @@ Data in this knowledge graph has been collected by Patrick Huber between 2018 an
 focus include conservation resources of the Sacramento region and information on the Northern California
 food system. 
 
-The data in this knowledge graph is current as of 13 September 2023.
+The data in this knowledge graph is current as of 22 November 2023.
 
 Partial funding for development of this database has come from the US National Science Foundation, 
 NSF Award 1737573, in a Research Coordination Network project entitled “Developing Informational Infrastructure for 
